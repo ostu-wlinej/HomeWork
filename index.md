@@ -8,5 +8,6 @@ layout: default
 - Студент бакалавриата СПбГУ по направлению «ТП»
 
 # Контакты
-- email: <Ваш email>
-- telegram
+- email: st153873@student.spbu.ru
+- telegram: nickname is missing
+
